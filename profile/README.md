@@ -7,7 +7,7 @@
     <img width="800" src="https://readme-typing-svg.demolab.com?font=LXGW+WenKai+TC&size=22&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+our+GitHub+profile+page!;欢迎来到我们的 GitHub 主页！" alt="Hello World" title="Hello World"/>
 </p>
 
-截止 2025 年 1 月 28 日，我们开设的课程有：
+截止 2025 年 1 月 28 日，我们开设的课程如下表所示。您可以在 [Repositories](https://github.com/orgs/sico-university/repositories) 中查看我们的课程资料！
 
 | 校区         | 学院          | 课程                                    | 讲师             | 课程简介                                              |
 |--------------|--------------|-----------------------------------------|------------------|------------------------------------------------------|
