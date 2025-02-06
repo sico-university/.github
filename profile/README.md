@@ -37,5 +37,5 @@
 | 札中校区 | 文学与历史文化学院 | [日语五十音图高效记忆](https://github.com/sico-university/japanese-hiragana-memory)                    | 枫霖              | 讲解怎样高效记忆五十音图的读音和平假名片假名写法      |
 | 独立学院 | 生命科学学院       | [基础生物学（RJ24）](https://github.com/sico-university/basic-biology-rj24)                           | 刘朝晨           | 主要教育内容：人教版24年版初中生物学（七年级上册至八年级下册）|
 | 独立学院 | 体育学院	      | [奥林匹克理论](https://github.com/sico-university/olympic-theory)	                                 | 顽童鲍尔         | 奥林匹克理论课程                                    |
-| 西科校区 | 计算机科学学院     | 用 Git 高效协作                                                                                       | JerryHan3        | 三节课快速学会如何用git进行协作                      |
+| 西科校区 | 计算机科学学院     | [用 Git 高效协作](https://github.com/sico-university/git-efficient-collab)                            | JerryHan3        | 三节课快速学会如何用git进行协作                      |
 | 西科校区 | 计算机科学学院     | 基于一个小项目的 Python 编程基础入门 —— MC 启动器                                                       | RATE             | 基于一个小项目的Python编程基础入门——MC启动器          |
