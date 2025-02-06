@@ -11,15 +11,15 @@
 
 | 校区         | 学院          | 课程                                    | 讲师             | 课程简介                                              |
 |--------------|--------------|-----------------------------------------|------------------|------------------------------------------------------|
-| 札中校区 | 艺术学院           | [导播课程](https://github.com/sico-university/broadcasting-course)                                    | 鬼谷子           | vmix的使用及rtmp服务器的使用                           |
+| 札中校区 | 艺术学院           | [导播课程](https://github.com/sico-university/broadcasting-course)                                    | 鬼谷子           | vmix的使用及rtmp服务器的使用                          |
 | 札中校区 | 文学与历史文化学院 | [《史记》先秦史解读课（第一、二学期）](https://github.com/sico-university/shiji-pre-qin-history)         | 苏夕瑶、卫去无卿  | 以《史记》为基础，简介先秦历史                         |
 | 札中校区 | 文学与历史文化学院 | [《史记》秦汉史解读课（第三、四学期）](https://github.com/sico-university/shiji-qin-han-history)         | 苏夕瑶           | 以《史记》为基础，简介秦汉历史                         |
-| 札中校区 | 文学与历史文化学院 | [雅思课程](https://github.com/sico-university/ielts-course)                                           | Ryan             | 讲解雅思的听说读写四项技能                            |
+| 札中校区 | 文学与历史文化学院 | [雅思课程](https://github.com/sico-university/ielts-course)                                           | Ryan             | 讲解雅思的听说读写四项技能                             |
 | 札中校区 | 文学与历史文化学院 | [日语JLPT-N5](https://github.com/sico-university/japanese-jlpt-n5)                                    | 补糖醇酸奶_       | 课程将根据JLPT日本语能力测试N5为基准，以新版中日交流标准日本语初级上册作为课本进行教学 |
-| 西科校区 | 数学科学学院       | [高等数学](https://github.com/sico-university/advanced-math)                                          | 苏夕瑶           | 高等数学、微积分、级数及线性代数基础等                |
+| 西科校区 | 数学科学学院       | [高等数学](https://github.com/sico-university/advanced-math)                                          | 苏夕瑶           | 高等数学、微积分、级数及线性代数基础等                  |
 | 独立学院 | 体育学院           | [世界赛车赛事](https://github.com/sico-university/world-racing-events)                                | ChocoblueWU      | 世界主流赛车赛事概览                                  |
 | 独立学院 | 体育学院           | [基岩版模组车驾驶与赛道建设](https://github.com/sico-university/bedrock-mod-cars-track-building)       | ChocoblueWU      | 基岩版模组车驾驶与赛道建设                            |
-| 独立学院 | 体育学院           | [基岩版冰船操作、指令和建造](https://github.com/sico-university/bedrock-iceboat-commands-track-design) | GYZ906        | 手机版冰船技术/基岩版冰船指令/地图建造                |
+| 独立学院 | 体育学院           | [基岩版冰船操作、指令和建造](https://github.com/sico-university/bedrock-iceboat-commands-track-design) | GYZ906           | 手机版冰船技术/基岩版冰船指令/地图建造                |
 | 札中校区 | 艺术学院           | [播音与主持艺术](https://github.com/sico-university/broadcast-hosting-art)                            | 刘朝晨           | 播音与主持艺术的课程                                 |
 | 西科校区 | 计算机科学学院     | [区块链技术与应用](https://github.com/sico-university/blockchain-technology-applications)              | zzzhizhi         | 比特币、以太坊等区块链技术的设计思路并有效解决实际问题。 |
 | 西科校区 | 计算机科学学院     | [基于 Next.js 的 Web 应用开发](https://github.com/sico-university/nextjs-development)                  | zzzhizhi         | 使用流行的现代 Web 开发框架构建网站                  |
@@ -37,3 +37,5 @@
 | 札中校区 | 文学与历史文化学院 | [日语五十音图高效记忆](https://github.com/sico-university/japanese-hiragana-memory)                    | 枫霖              | 讲解怎样高效记忆五十音图的读音和平假名片假名写法      |
 | 独立学院 | 生命科学学院       | [基础生物学（RJ24）](https://github.com/sico-university/basic-biology-rj24)                           | 刘朝晨           | 主要教育内容：人教版24年版初中生物学（七年级上册至八年级下册）|
 | 独立学院 | 体育学院	      | [奥林匹克理论](https://github.com/sico-university/olympic-theory)	                                 | 顽童鲍尔         | 奥林匹克理论课程                                    |
+| 西科校区 | 计算机科学学院     | 用 Git 高效协作                                                                                       | JerryHan3        | 三节课快速学会如何用git进行协作                      |
+| 西科校区 | 计算机科学学院     | 基于一个小项目的 Python 编程基础入门 —— MC 启动器                                                       | RATE             | 基于一个小项目的Python编程基础入门——MC启动器          |
