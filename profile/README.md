@@ -22,7 +22,7 @@
 | 独立学院 | 体育学院           | [基岩版冰船操作、指令和建造](https://github.com/sico-university/bedrock-iceboat-commands-track-design) | GYZ906           | 手机版冰船技术/基岩版冰船指令/地图建造                |
 | 札中校区 | 艺术学院           | [播音与主持艺术](https://github.com/sico-university/broadcast-hosting-art)                            | 刘朝晨           | 播音与主持艺术的课程                                 |
 | 西科校区 | 计算机科学学院     | [区块链技术与应用](https://github.com/sico-university/blockchain-technology-applications)              | zzzhizhi         | 比特币、以太坊等区块链技术的设计思路并有效解决实际问题。 |
-| 西科校区 | 计算机科学学院     | [基于 Next.js 的 Web 应用开发](https://github.com/sico-university/nextjs-development)                  | zzzhizhi         | 使用流行的现代 Web 开发框架构建网站                  |
+| 西科校区 | 计算机科学学院     | [Next.js 全栈应用开发](https://github.com/sico-university/nextjs-development)                          | zzzhizhi        | 使用流行的现代 Web 开发框架构建网站                  |
 | 独立学院 | 生命科学学院       | [植物分类学基础](https://github.com/sico-university/plant-taxonomy-basics)                             | 苏夕瑶           | 以现今研究为主，简单介绍现代植物分类学                |
 | 札中校区 | 艺术学院           | [艺术学概论](https://github.com/sico-university/art-theory-overview)                                  | 玄之             | 艺术学理论包含于哲学和美学之中，本课程采用马克思主义方法论分析问题 |
 | 西科校区 | 计算机科学学院     | [红石基础](https://github.com/sico-university/redstone-basics)                                        | 三叉戟           | 包括红石元件基础功能讲解和电路搭建思路，以及简单的红石功能模块制作 |
