@@ -9,7 +9,7 @@
 [体育学院](https://qm.qq.com/q/KKlMhLSioa)
 
 截止 2025 年 1 月 28 日，我们开设的课程如下表所示。您可以在 [Repositories](https://github.com/orgs/sico-university/repositories) 中查看我们的课程资料！
-
+<!--
 | 校区         | 学院          | 课程                                    | 讲师             | 课程简介                                              |
 |--------------|--------------|-----------------------------------------|------------------|------------------------------------------------------|
 | 札中校区 | 艺术学院           | [导播课程](https://github.com/sico-university/broadcasting-course)                                    | 鬼谷子           | vmix的使用及rtmp服务器的使用                          |
@@ -39,3 +39,4 @@
 | 独立学院 | 生命科学学院       | 微生物学                                                                                              | 刘朝晨           | 微生物学为第八版                                    |
 | 独立学院 | 体育学院	      | [奥林匹克理论](https://github.com/sico-university/olympic-theory)	                                 | 顽童鲍尔         | 奥林匹克理论课程                                    |
 | 西科校区 | 计算机科学学院     | [用 Git 高效协作](https://github.com/sico-university/git-efficient-collab)                            | JerryHan3        | 三节课快速学会如何用git进行协作                      |
+-->
