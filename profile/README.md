@@ -1,18 +1,19 @@
 <img src="https://free.picui.cn/free/2025/08/12/689ac336bf97e.png">
 
-## 西科大全部已经开设了的课程列表（实时更新）：[课程总表](https://mocworkcenter.feishu.cn/wiki/GxS7wJLHJiEN4Zky90dc8zegn0g?from=from_copylink){target="_blank"}
+## 西科大全部已经开设了的课程列表（实时更新）：
+<a href="https://mocworkcenter.feishu.cn/wiki/GxS7wJLHJiEN4Zky90dc8zegn0g?from=from_copylink" target="_blank">课程总表</a>
 ## 加入西科大学
 西科大可以供社会人士加入，加入西科大后你可以申请课程并且跟随老师上课。
 
 您可以选择加入
 
-[西科校区](https://qm.qq.com/q/f3ebCIEF4A){target="_blank"}
+<a href="https://qm.qq.com/q/f3ebCIEF4A" target="_blank">西科校区</a>
 
-[札中校区](https://qm.qq.com/q/HswK7LzCos){target="_blank"}
+<a href="https://qm.qq.com/q/HswK7LzCos" target="_blank">札中校区</a>
 
-[生命科学学院](https://qm.qq.com/q/dFzZGrCzOU){target="_blank"}
+<a href="https://qm.qq.com/q/dFzZGrCzOU" target="_blank">生命科学学院</a>
 
-[体育学院](https://qm.qq.com/q/KKlMhLSioa){target="_blank"}
+<a href="https://qm.qq.com/q/KKlMhLSioa" target="_blank">体育学院</a>
 
 <!--截止 2025 年 1 月 28 日，我们开设的课程如下表所示。您可以在 [Repositories](https://github.com/orgs/sico-university/repositories) 中查看我们的课程资料！
 
