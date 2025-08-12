@@ -7,6 +7,9 @@
     <img width="800" src="https://readme-typing-svg.demolab.com?font=LXGW+WenKai+TC&size=22&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+our+GitHub+profile+page!;欢迎来到我们的 GitHub 主页！" alt="Hello World" title="Hello World"/>
 </p>
 
+西科大全部已经开设了的课程列表（实时更新）：[课程总表](https://mocworkcenter.feishu.cn/wiki/GxS7wJLHJiEN4Zky90dc8zegn0g?from=from_copylink)
+西科大课程在线申请收集表：[课程申请](https://mocworkcenter.feishu.cn/share/base/form/shrcntl4qpBaTYHlfWFtB87gThe)
+
 截止 2025 年 1 月 28 日，我们开设的课程如下表所示。您可以在 [Repositories](https://github.com/orgs/sico-university/repositories) 中查看我们的课程资料！
 
 | 校区         | 学院          | 课程                                    | 讲师             | 课程简介                                              |
@@ -38,4 +41,3 @@
 | 独立学院 | 生命科学学院       | 微生物学                                                                                              | 刘朝晨           | 微生物学为第八版                                    |
 | 独立学院 | 体育学院	      | [奥林匹克理论](https://github.com/sico-university/olympic-theory)	                                 | 顽童鲍尔         | 奥林匹克理论课程                                    |
 | 西科校区 | 计算机科学学院     | [用 Git 高效协作](https://github.com/sico-university/git-efficient-collab)                            | JerryHan3        | 三节课快速学会如何用git进行协作                      |
-| 西科校区 | 计算机科学学院     | 基于一个小项目的 Python 编程基础入门 —— MC 启动器                                                       | RATE             | 基于一个小项目的Python编程基础入门——MC启动器          |
